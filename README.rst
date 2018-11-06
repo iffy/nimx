@@ -71,4 +71,4 @@ Running nimx samples
 
 Reference
 ====================
-TODO
+See `the docs <./doc>` for more information.
